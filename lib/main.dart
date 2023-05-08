@@ -104,7 +104,8 @@ class _HomePageState extends State<HomePage>
                 _privacypolicy();
                 print('[home.dart] _privacypolicy()');
               } else if (value == 'Choice._share') {
-                Share.share('En la tienda de aplicacion https://example.com',
+                Share.share(
+                    'En la tienda de aplicacion https://play.google.com/store/apps/details?id=com.johnruadev.oracionescatolicasbasicas',
                     subject: 'Aplicacion oraciones catolica básicas');
                 print('[home.dart] _share()');
               } else {}
@@ -673,7 +674,7 @@ Amén.
                   new Text('''
                   
               
-  PRIVACY POLICY FOR MOBILE APPLICATIONS
+  Política de privacidad
 
               
               ''',
@@ -685,90 +686,34 @@ Amén.
                   new Text(
                     '''
                     
-      This privacy policy governs your use of the software application for mobile devices that was created by John Rua
+Política de privacidad de la aplicación Oraciones Catholicas básicas
 
+En nuestra aplicación católica, nos comprometemos a proteger la privacidad de nuestros usuarios. No recogemos ninguna información privada de nuestros usuarios. Sólo recogemos la información no personal que es necesaria para el correcto funcionamiento de nuestra aplicación.
 
-   What information does the Application obtain and how is it used?
-   
-Automatically Collected Information In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.
-   
-  Does the Application collect precise real time location information of the device?
+Información que recogemos
 
-This Application does not collect precise information about the location of your mobile device.
-   
-   Do third parties see and/or have access to information obtained by the Application?
+Cuando usted utiliza nuestra aplicación católica, recopilamos información no personal, como el tipo de dispositivo, el sistema operativo y las estadísticas de uso de la aplicación. Esta información se recoge automáticamente y se utiliza para mejorar la funcionalidad y el rendimiento de nuestra aplicación.
 
-Only aggregated, anonymized data is periodically transmitted to external services to help us improve the Application and our service. We will share your information with third parties only in the ways that are described in this privacy statement.
-   
-   We may disclose User Provided and Automatically Collected Information:
-   
-  As required by law, such as to comply with a subpoena, or similar legal process; when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request; with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
-      
-      
-      What are my opt-out rights?
-      
- You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. Data Retention Policy, Managing Your Information We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at (tu email) and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly. 
-  
-  Children 
-      
- We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at afrfreelancer@gmail.com  . We will delete such information from our files within a reasonable time. 
- 
-  Security 
-      
-We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+No recopilamos información personal como su nombre, dirección de correo electrónico o número de teléfono. No requerimos ningún tipo de información de registro o inicio de sesión para utilizar nuestra aplicación.
 
-  Changes
-      
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here and informing you via email or text message. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by clicking here.
-Your Consent By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. “Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the cloud. 
-      
-  Contact us
-  
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at Jrua89@gmail.com
-      
-  Extended policy concerning the application of the European GDPR.
+Cómo utilizamos la información
 
-In accordance with the obligations of the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (Text with EEA relevance)
+La información no personal que recopilamos se utiliza únicamente para mejorar nuestra aplicación. Utilizamos esta información para identificar y corregir errores, mejorar la interfaz de usuario y añadir nuevas funciones.
 
-Data processor
+No compartimos ninguna información con terceros. No vendemos, alquilamos ni cedemos ninguna información a terceros.
 
+Seguridad
 
-John rua does not own any of the client data stored or processed via the service gold.appybuilder.com
+Nos tomamos muy en serio la seguridad de la información de nuestros usuarios. Utilizamos el cifrado estándar del sector para proteger todos los datos transmitidos entre nuestros servidores y su dispositivo.
 
-John Rua is not responsible for the content of the personal data contained in the client data or other information stored on its servers.
+Cambios en la política de privacidad
 
-At the discretion of the client or user nor is John rua responsible for the manner in which the client or user collects, handles disclosure, distributes or otherwise processes such information.
-Contact to access, correct, delete any data information
+Nos reservamos el derecho a actualizar esta política de privacidad en cualquier momento. Cualquier cambio en esta política se publicará en nuestro sitio web y entrará en vigor inmediatamente.
 
-gold.appybuilder.com
+Póngase en contacto con nosotros
 
-Your choices
+Si tiene alguna pregunta o duda sobre nuestra política de privacidad, póngase en contacto con nosotros en Jrua89@gmail.com.
 
-Access, Correction, Deletion
- 
-We respect your privacy rights and provide you with reasonable access to the Personal Data that you may have provided through your use of the Services.
-If you wish to access or amend any other Personal Data we hold about you or to request that we delete any information about you that we have obtained from an Integrated Service, you may contact us.
-At your request we will have any reference to you deleted or blocked in our database.
-You may update, correct, or delete your Account information and preferences at any time by accessing your Account settings page on the Service.
-Please note that while any changes you make will be reflected in active user databases instantly or within a reasonable period of time, we may retain all information you submit for backups, archiving, prevention of fraud and abuse, analytic, satisfaction of legal obligations, or where we otherwise reasonably believe that we have a legitimate reason to do so
-You may decline to share certain personal data with us, in which case we may not be able to provide to you some of the features and functionality of the Service.
-At any time, you may object to the processing of your personal data, on legitimate grounds except if otherwise permitted by applicable law.
-Intended use of personal data
-
-Unless you want to use advanced features in applications, we do not require any form of registration, allowing you to use the application without telling us who you are.
-However some services do require you to provide us with personal data.
-In these situations, if you choose to withhold any personal data request by us, it may not not be possible for you to gain access to certain parts of the application and for us to respond to your query.
-
-
-How we use the information we collect
- 
- 
-We use the information that we collect in a variety of ways in providing the service and operating our business.
-Including the following operations:
-- Maintain, enhance and provide all features of the service, to provide the services and information that you request,
-to respond to comments and questions and to provide support to users of the service we process client data solely in accordance with the directions provided by the applicable client or user improvements.
-- We may use a visitor or user email address or other information other than client data to contact that visitor or user for administrative purposes such as customer service,
-to address intellectual property infringement, right of privacy violations or defamation issues related to the client data or personal data posted on the service.
   
   
                     ''',
