@@ -712,7 +712,7 @@ Nos reservamos el derecho a actualizar esta política de privacidad en cualquier
 
 Póngase en contacto con nosotros
 
-Si tiene alguna pregunta o duda sobre nuestra política de privacidad, póngase en contacto con nosotros en Jrua89@gmail.com.
+Si tiene alguna pregunta o duda sobre nuestra política de privacidad, póngase en contacto con nosotros en ocatholica@gmail.com.
 
   
   
