@@ -686,33 +686,33 @@ Amén.
                   new Text(
                     '''
                     
-Política de privacidad de la aplicación Oraciones Catholicas básicas
+Privacy Policy
 
-En nuestra aplicación católica, nos comprometemos a proteger la privacidad de nuestros usuarios. No recogemos ninguna información privada de nuestros usuarios. Sólo recogemos la información no personal que es necesaria para el correcto funcionamiento de nuestra aplicación.
+On our Catholic app, we are committed to protecting the privacy of our users. We do not collect any private information from our users. We only collect non-personal information that is necessary for the proper functioning of our application.
 
-Información que recogemos
+Information we collect
 
-Cuando usted utiliza nuestra aplicación católica, recopilamos información no personal, como el tipo de dispositivo, el sistema operativo y las estadísticas de uso de la aplicación. Esta información se recoge automáticamente y se utiliza para mejorar la funcionalidad y el rendimiento de nuestra aplicación.
+When you use our Catholic app, we collect non-personal information, such as device type, operating system and app usage statistics. This information is collected automatically and is used to improve the functionality and performance of our app.
 
-No recopilamos información personal como su nombre, dirección de correo electrónico o número de teléfono. No requerimos ningún tipo de información de registro o inicio de sesión para utilizar nuestra aplicación.
+We do not collect personal information such as your name, email address or phone number. We do not require any registration or login information to use our application.
 
-Cómo utilizamos la información
+How We Use Information
 
-La información no personal que recopilamos se utiliza únicamente para mejorar nuestra aplicación. Utilizamos esta información para identificar y corregir errores, mejorar la interfaz de usuario y añadir nuevas funciones.
+The non-personal information we collect is used only to improve our application. We use this information to identify and fix bugs, improve the user interface and add new features.
 
-No compartimos ninguna información con terceros. No vendemos, alquilamos ni cedemos ninguna información a terceros.
+We do not share any information with third parties. We do not sell, rent or lease any information to third parties.
 
-Seguridad
+Security
 
-Nos tomamos muy en serio la seguridad de la información de nuestros usuarios. Utilizamos el cifrado estándar del sector para proteger todos los datos transmitidos entre nuestros servidores y su dispositivo.
+We take the security of our users' information very seriously. We use industry-standard encryption to protect all data transmitted between our servers and your device.
 
-Cambios en la política de privacidad
+Privacy Policy Changes
 
-Nos reservamos el derecho a actualizar esta política de privacidad en cualquier momento. Cualquier cambio en esta política se publicará en nuestro sitio web y entrará en vigor inmediatamente.
+We reserve the right to update this privacy policy at any time. Any changes to this policy will be posted on our website and will be effective immediately.
 
-Póngase en contacto con nosotros
+Contacting Us
 
-Si tiene alguna pregunta o duda sobre nuestra política de privacidad, póngase en contacto con nosotros en ocatholica@gmail.com.
+If you have any questions or concerns about our privacy policy, please contact us at ocatholica@gmail.com.
 
   
   
